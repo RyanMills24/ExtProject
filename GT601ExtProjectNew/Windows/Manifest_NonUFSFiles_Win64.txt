@@ -1,0 +1,15 @@
+Engine/Binaries/Win64/EOSSDK-Win64-Shipping.dll	2023-12-05T03:17:30.170Z
+GT601ExtProjectNew/Binaries/Win64/D3D12/D3D12Core.dll	2023-12-05T03:17:17.715Z
+GT601ExtProjectNew/Binaries/Win64/GT601ExtProjectNew-Win64-Shipping.exe	2025-04-10T22:46:35.013Z
+GT601ExtProjectNew/Binaries/Win64/tbb.dll	2023-12-05T03:16:54.439Z
+GT601ExtProjectNew/Binaries/Win64/tbbmalloc.dll	2023-12-05T03:16:54.523Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2023-12-05T03:27:37.381Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-12-05T03:15:19.971Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2023-12-05T03:17:03.833Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-12-05T03:17:03.842Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-12-05T03:17:04.618Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-12-05T03:17:17.707Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-12-05T03:17:17.707Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-12-05T03:17:19.000Z
+Engine/Content/Slate/Cursor/invisible.cur	2023-12-05T03:20:52.235Z
+GT601ExtProjectNew.exe	2025-04-10T22:47:00.227Z
